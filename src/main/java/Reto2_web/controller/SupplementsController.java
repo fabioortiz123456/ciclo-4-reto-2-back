@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Fabio Ortiz
  */
 @RestController
-@RequestMapping("/api/vegetarian")
+@RequestMapping("/api/supplements")
 @CrossOrigin("*")
 public class SupplementsController {
     @Autowired

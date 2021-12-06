@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Reto2_web.servicios;
 
 import Reto2_web.modelo.Supplements;
@@ -16,7 +12,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author desaextremo
+ * @author Fabio Ortiz
  */
 @Service
 public class SupplementsService {
